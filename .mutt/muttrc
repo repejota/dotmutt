@@ -1,3 +1,7 @@
 # mutt configuration
 
+# Base configuration
+source ~/.mutt/base.muttrc
 
+# Color configuration
+source ~/.mutt/colors.muttrc

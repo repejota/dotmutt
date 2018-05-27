@@ -1,0 +1,7 @@
+# Base configuration for mutt
+
+# http://www.mutt.org/doc/manual/#move
+# this prevents Mutt from endlessly asking when you quit:
+# "Move read messages to ~/mbox? ([no]/yes):"
+set move = no
+
