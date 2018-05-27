@@ -1,0 +1,2 @@
+# dotmutt
+My mutt dotfiles
